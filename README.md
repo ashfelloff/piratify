@@ -1,49 +1,31 @@
-# SANTA VS THE AIRFORCE
+# Piratify 🏴‍☠️
+Not your average piracy site.
+Ahoy! Welcome to Piratify - a whimsical web app that transforms yer boring landlubber text into proper pirate speak! Using the power of AI and some good ol' fashioned pirate dictionary magic, we'll have ye talking like a seasoned buccaneer in no time.
 
-Ho ho ho! Welcome to a festive aerial combat game where Santa takes on the military industrial complex! Dodge jets, blast candy canes, and show those fighter pilots the true meaning of Christmas!
+## ⚓ Features
 
-## GAMEPLAY
+- 🤖 AI-powered text translation using Google's Gemini API
+- 📚 Fallback dictionary translation when the seas be rough
+- ✨ Fancy animations and transitions
+- 📱 Responsive design for all yer devices
+- 🎨 Pirate-themed UI that'll shiver yer timbers
+- 💬 Character counter to keep yer messages ship-shape
 
-### Core Mechanics
-- **Candy Cane BLAST!**: Press SPACE to spread some holiday cheer!
-- **Spitfire Mode**: Hold SPACE to unleash a rapid-fire barrage of candy canes!
-- **Dynamic Difficulty**: The longer you survive, the more challenging it becomes.
-- **Health and Ammo Management**: Keep an eye on your resources to stay in the game.
+## 🎯 How to Use
 
-## Controls
-- **W, A, S, D** - Guide Santa's sleigh through the skies.
-- **SPACE** - Launch candy canes at enemy aircraft.
-- **Hold SPACE** - Activate Spitfire mode (when available) for rapid-fire candy cane action!
-- **J** - View game instructions.
+1. Visit the [Piratify Website](your-vercel-url-here)
+2. Type yer message in the scroll
+3. Click "Translate?" or hit Enter
+4. Watch as yer text transforms into proper pirate speak!
 
-### Special Features
-- **Supply Drops**: Look out for sparkling presents that restore health and ammo.
-- **Missile Warning System**: Watch out for those pesky guided missiles!
-- **Screen Shake**: Experience the thrill of combat with dynamic screen effects.
+## 🤝 Contributing
 
-### Objectives
-- Dodge those naughty jets and missiles.
-- Collect magical supply drops to restore health and ammo.
-- Stay airborne as long as possible!
+Found a bug in the ship? Want to add new features to our vessel? Pull requests are welcome! For major changes, please open an issue first to discuss what ye'd like to change.
 
-## ✨ Tips for Spreading Christmas Cheer
-1. Keep an eye on your health and ammo.
-2. Don't be greedy with Spitfire mode - save it for when you really need it.
-3. Supply drops are your best friend - grab them when you can!
-4. Remember: A moving Santa is a happy Santa.
+## Credits
 
-## 🎁 Credits
-Created with holiday spirit by ashfelloff.
+Crafted with ☠️ by ashfelloff
 
-Ho ho ho! Now get out there and show the airforce what Christmas is all about! 🎄✨
+## 📜 License
 
-## Development
-Built using vanilla JavaScript and HTML5 Canvas.
-
-### Key Features
-- Smooth animation system.
-- Collision detection.
-- Particle effects.
-- Power-up management.
-- Progressive difficulty scaling.
-- Adaptive AI for enemy jet behavior.
+This project be free as the seven seas - [MIT](https://choosealicense.com/licenses/mit/)
