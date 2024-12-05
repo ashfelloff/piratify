@@ -14,7 +14,7 @@ Ahoy! Welcome to Piratify - a whimsical web app that transforms yer boring landl
 
 ## 🎯 How to Use
 
-1. Visit the [Piratify Website](arr.ashwath.ch)
+1. Visit the [Piratify Website](piratify.ashwath.ch)
 2. Type yer message in the scroll
 3. Click "Translate?" or hit Enter
 4. Watch as yer text transforms into proper pirate speak!
