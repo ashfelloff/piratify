@@ -1,5 +1,6 @@
-# Piratify 🏴‍☠️
+# Piratify
 Not your average piracy site.
+
 Ahoy! Welcome to Piratify - a whimsical web app that transforms yer boring landlubber text into proper pirate speak! Using the power of AI and some good ol' fashioned pirate dictionary magic, we'll have ye talking like a seasoned buccaneer in no time.
 
 ## ⚓ Features
@@ -13,7 +14,7 @@ Ahoy! Welcome to Piratify - a whimsical web app that transforms yer boring landl
 
 ## 🎯 How to Use
 
-1. Visit the [Piratify Website](your-vercel-url-here)
+1. Visit the [Piratify Website](arr.ashwath.ch)
 2. Type yer message in the scroll
 3. Click "Translate?" or hit Enter
 4. Watch as yer text transforms into proper pirate speak!
